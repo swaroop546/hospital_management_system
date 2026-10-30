@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "connect-mongo": "^6.0.0",
+    "mongoose": "^9.11.4",
+    "neo4j-driver": "^6.2.0"
+  }
+}
